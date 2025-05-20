@@ -1,1 +1,5 @@
-# Langston6954.github.io
+# Donnie Langston
+
+# delangston@my.waketech.edu
+
+# This Repository is for WakeTech and will hold Assignments
