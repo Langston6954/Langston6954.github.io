@@ -6,10 +6,10 @@
 
 ## About Me
 #### My Interests
-	* I enjoy a learning how things work both digitally and mechanically
-	* DIY enthusiast and technician
-	* Enjoy Tennis, Golf & Working Out 
-	* Family Time
+	* I enjoy learning how things work both digitally and mechanically.
+	* DIY enthusiast and technician.
+	* Enjoy Tennis, Golf & Working Out.
+	* Family Time.
 	
 #### Websites I recommend
 	* [YouTube](https://youtube.com) - Youtube is a relaxing way to learn  with a long list of how to guides.
