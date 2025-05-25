@@ -8,10 +8,16 @@
 
 #### My Interests
 
-    * I enjoy learning how things work both digitally and mechanically.
-    * DIY enthusiast and technician.
-    * Enjoy Tennis, Golf & Working Out.
-    * Family Time.
+- I enjoy learning how things work both digitally and mechanically.
+  - DIY technician
+  - Digital creator
+- Enjoy physical activities.
+  - Tennis
+  - Golf
+  - Working Out
+- Family Time.
+  - Spending time with my daughter
+  - Attending family gatherings on birthdays and holidays.
 
 #### Websites I Recommend
 
