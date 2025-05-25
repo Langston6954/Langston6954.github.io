@@ -4,7 +4,7 @@
 
 #### This Repository is for WakeTech and will hold Assignments
 
-#### About Me
+## About Me
 #### My Interests
 	* I enjoy a learning how things work both digitally and mechanically
 	* DIY enthusiast and technician
