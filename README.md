@@ -2,11 +2,9 @@
 
 ## delangston@my.waketech.edu
 
-#### This Repository is for WakeTech and will hold Assignments
+#### This Repository is for WakeTech Assignments
 
 ## About Me
-
-![Donnie Langston][def]
 
 ### My **_Interests_**
 
