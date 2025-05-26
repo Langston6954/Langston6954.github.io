@@ -1,12 +1,12 @@
 ```mermaid
 sequenceDiagram
-  participant Attacker
+  actor Attacker
   participant BotNet
-  participant WebServer
   participant Firewall
+  participant WebServer
   actor Trusted User
   Attacker->>BotNet: Distribute Denial of Service Attack on SomeWebsite.com
-  BotNet->>Firewall: BotNet commands army of computers to request connection to SomeWEbsite.com
+  BotNet->>Firewall: Attacker commands army of computers to request connection to SomeWebsite.com
   Firewall->>WebServer: Firewall sends connection requests through to webserver.
   Firewall->>WebServer: Too Many packets coming in to handle.
   Firewall->>WebServer: Too many requests coming in to handle.
