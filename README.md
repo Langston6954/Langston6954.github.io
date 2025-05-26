@@ -6,7 +6,7 @@
 
 ## About Me
 
-[![Donnie Langston](C:\Users\donni\OneDrive\Desktop\DonnieLangston.jpg)](https://photos.app.goo.gl/r6W5xfcTUZmBje8h8)
+![](https://1drv.ms/i/c/5a958a1ad7f90fe7/EQPvJAcRGXFIsdCQcyxRHxkBotYRtYnA-7_Us-iZgdfVaA?e=YC20VK)
 
 ### My **_Interests_**
 
