@@ -15,7 +15,7 @@ sequenceDiagram
   Firewall->>WebServer: Too many requests coming in to handle.
   WebServer->>Firewall: A denied connection request packet is sent to the firewall.
   Trusted User->>Firewall: An honest website connection request comes into the firewall.
-  WebServer->>Trusted User: Services requested are slow in response or down completely.
+  Firewall->>Trusted User: Services requested are slow in response or down completely.
 
 
 
