@@ -17,7 +17,7 @@ sequenceDiagram
   Trusted User->>Firewall: An honest website connection request comes into the firewall.
   Firewall->>WebServer: Trusted Users connection request flows throught the firewall to the WebServer.
   WebServer->>Firewall: WebServer tells Firewall the connection can't be completed due to limited resources.
-  Firewall->>Trusted User: Services requested are slow in response or down completely.
+  Firewall->>Trusted User: Services requested are slow in response or down completely denying access to SomeWebsite.com
 
 
 
