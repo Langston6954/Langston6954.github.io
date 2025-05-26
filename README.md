@@ -6,7 +6,7 @@
 
 ## About Me
 
-![Donnie Langston](https://photos.app.goo.gl/22Z62xNHrMf2mEtT6)
+![Donnie Langston][def]
 
 ### My **_Interests_**
 
@@ -26,3 +26,5 @@
 [YouTube](https://youtube.com) - Youtube is a relaxing way to learn with a long list of how to guides.  
 [CNET](https://cnet.com) - Is great for gaining insite on new technologies.  
 [Reddit](https://reddit.com) - It allows you to jnoin communities and learn what others say about different topics including but not limited to tech.
+
+[def]: https://photos.app.goo.gl/22Z62xNHrMf2mEtT6
