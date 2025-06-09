@@ -10,7 +10,7 @@
 
 ### My **_Interests_**
 
-- I enjoy learning how things work both digitally and mechanically.
+- I enjoy learning how things work technically.
   - DIY technician
   - Digital creator
 - Enjoy physical activities.
@@ -18,7 +18,6 @@
   - Golf
   - Working out
 - Family Time.
-  - Spending time with my daughter
   - Attending family gatherings on birthdays and holidays
 
 ### **_Websites_** I Recommend
